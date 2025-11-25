@@ -1,3 +1,4 @@
+# Add comments to this function
 def print_hi(text):
     print(f'Hi, {text}')
 
